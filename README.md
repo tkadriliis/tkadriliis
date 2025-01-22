@@ -2,7 +2,7 @@
 
 ### Abot me
 - 💪 I'm currently working in sales
-- 🔭 I’m currently working on my Python skills  
+- 🔭 At the moment I'm working on my Python skills  
 - 🌱 I’m currently learning Data Analytics
 - 📫 How to reach me: t.kadriliis@gmail.com or over on [LinkedIn](https://www.linkedin.com/in/kadri-liis-tammearu-3051931b0)
 - 😄 Pronouns: She/her  
